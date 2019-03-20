@@ -1,2 +1,2 @@
-# Hussysite
+# hussysite
 My first website
